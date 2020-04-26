@@ -1,0 +1,11 @@
+query launchDetails ($id: ID!) {
+    launch(id: $id) {
+        id
+        details
+        mission_name
+        links {
+            flickr_images
+            mission_patch_small
+        }
+    }
+}
