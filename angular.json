@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "spacex-graphql"
+    }
+  },
+  "defaultProject": "spacex-graphql",
+  "cli": {
+    "analytics": "0fb98254-f3a4-4c41-80a8-3d66337d7d48"
+  }
 }
